@@ -1,5 +1,5 @@
 # C++ 编程练习代码
-*This Respository is used to store my C++ programming code.*
+*This Respository is used to store C++ programming code.*
 
 * 实验题目参考书籍：**《数据结构习题解析与实验指导》（作者：李冬梅、张琪编）** 
 
