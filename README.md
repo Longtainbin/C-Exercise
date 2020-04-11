@@ -2,7 +2,9 @@
 
 *This Respository is used to store C++ programming code.*
 ***
-* 实验题目参考书籍：**《数据结构习题解析与实验指导》（作者：李冬梅、张琪编）** 
+* 实验题目参考书籍：
+ 1.《数据结构习题解析与实验指导》（作者：李冬梅、张琪编）
+ 
 
 
 
@@ -15,5 +17,5 @@
 *opeatorLoaded*|操作符重载练习|链表结构|来源：***C++ Primer Plus*** By **Stephen Prata**
 *Queue*|队列数据结构练习|链表结构|来源：***C++ Primer Plus*** By **Stephen Prata**
 *CSTDataProcess*|整理CST数据|顺序结构|来源：***实际需求***
-
+*Simplex Algorithm*|单纯行算法的实现|顺序结构|***需要 [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) 库支持***
 
