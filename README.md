@@ -18,5 +18,5 @@
 *opeatorLoaded*|操作符重载练习|链表结构|来源：***C++ Primer Plus*** By **Stephen Prata**
 *Queue*|队列数据结构练习|链表结构|来源：***C++ Primer Plus*** By **Stephen Prata**
 *CSTDataProcess*|整理CST数据|顺序结构|***转存仓库 [CSToutTxt_DataProcess](https://github.com/Longtainbin/CSToutTxt_DataProcess)***
-*Simplex Algorithm*|单纯行算法的实现|顺序结构|***需要 [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) 库支持***
+*Simplex Algorithm*|单纯形算法的实现|顺序结构|***需要 [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) 库支持***
 
